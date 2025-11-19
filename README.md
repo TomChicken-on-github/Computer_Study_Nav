@@ -16,7 +16,7 @@
 
 #### Linux
 - 书籍《鸟哥的linux私房菜》- 人民邮电出版社
-- (ArchLinux Wiki)[https://wiki.archlinuxcn.org/wiki/%E9%A6%96%E9%A1%B5]
+- [ArchLinux Wiki](https://wiki.archlinuxcn.org/wiki/%E9%A6%96%E9%A1%B5)
 强烈建议在虚拟机或旧的闲置设备上多次手动（不要用脚本）安装并配置ArchLinux
 网上有大量资料与教程请自行搜索 正如下文所说的要学会擅用搜索引擎（如今AI一定程度上可以辅助你学习 可以适当利用AI 但AI也会犯错 一定要对其给出的回答进行核实 要有自己的主观意识进行判断 AI是个很好的工具 但是毕竟它也只是工具 也有它有限的地方 千万不要过度依赖！！）
 

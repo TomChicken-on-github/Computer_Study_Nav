@@ -1,4 +1,4 @@
-# Computer_Study_Nav
+# Computer_Study_Fast_Nav
 
 ## 计算机补习指南(？)
 

@@ -2,6 +2,10 @@
 
 ## 计算机补习指南(？)
 
+#### 提问的艺术
+- [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+- [Don't ask to ask, just ask](https://dontasktoask.com)
+- [How do I ask a good question?](https://stackoverflow.com/help/how-to-ask)
 
 #### 硬件科普
 - Bilibili[@硬件茶谈](https://www.bilibili.com)

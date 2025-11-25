@@ -35,7 +35,7 @@
 ### 必备技能
 - 擅用Github
 - 擅用搜索引擎
-- 掌握[提问的艺术](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)！！（黑客指的是计算机技术很强的人 并非破坏计算机的人 破坏计算机的是骇客)
+- 掌握[提问的艺术](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/)！！（黑客指的是计算机技术很强的人 并非破坏计算机的人 破坏计算机的是骇客)
 - 擅用Markdown记录 (极易上手，学习时间不到二十分钟，功能强大使用体验丝滑)[Markdown官方学习教程](https://markdown.com.cn/basic-syntax/)
 - 对网络上的任何资料都要有自己的主观意识， ~~批判性欣赏（x）~~ 批判性思维去看待
   

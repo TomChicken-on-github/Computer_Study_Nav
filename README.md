@@ -8,7 +8,7 @@
 - [How do I ask a good question?](https://stackoverflow.com/help/how-to-ask)
 
 #### 硬件科普
-- Bilibili[@硬件茶谈](https://www.bilibili.com)
+- Bilibili[@硬件茶谈](https://space.bilibili.com/14871346)
 - HomoLab:Telegram[@supernand](https://t.me/SUPERNAND) Bilibili[@HomoLab](https://space.bilibili.com/3537122193574340) YouTube[@HOMOLAB1](https://www.youtube.com/@HOMOLAB1)
 
 #### 网络补习 
